@@ -1,4 +1,4 @@
-# [Név]
+# [Szabó bence]
 
 ## Hogyan kezdj neki?
 
