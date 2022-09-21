@@ -9,6 +9,7 @@ button{
     border: orange;
     cursor: pointer;
     padding: 10px 24px;
+    
 }
 h3{
     color: orange;
@@ -22,7 +23,11 @@ body{
 }
 table{
     padding-left: 70px;
+    border-spacing: 30px;    
 }
 input{
     width: 80px;
 }
+.border-bottom{
+    border-bottom: 1pt solid #000000;
+  }
