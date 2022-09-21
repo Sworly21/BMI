@@ -1,0 +1,17 @@
+  
+.elso{
+    background-color: orange;
+}
+button{
+    color: orange;
+}
+h3{
+    color: orange;
+}
+body{
+    max-width: 700px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
